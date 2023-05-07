@@ -1,0 +1,15 @@
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.csproj.AssemblyReference.cache
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.AssemblyInfoInputs.cache
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.AssemblyInfo.cs
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\less_7_task_1\bin\Debug\net6.0\less_7_task_1.exe
+C:\Учеба\C#\less_7_task_1\bin\Debug\net6.0\less_7_task_1.deps.json
+C:\Учеба\C#\less_7_task_1\bin\Debug\net6.0\less_7_task_1.runtimeconfig.json
+C:\Учеба\C#\less_7_task_1\bin\Debug\net6.0\less_7_task_1.dll
+C:\Учеба\C#\less_7_task_1\bin\Debug\net6.0\less_7_task_1.pdb
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.dll
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\refint\less_7_task_1.dll
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.pdb
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\less_7_task_1.genruntimeconfig.cache
+C:\Учеба\C#\less_7_task_1\obj\Debug\net6.0\ref\less_7_task_1.dll

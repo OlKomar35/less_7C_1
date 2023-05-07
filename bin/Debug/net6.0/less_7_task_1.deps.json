@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "less_7_task_1/1.0.0": {
+        "runtime": {
+          "less_7_task_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "less_7_task_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
