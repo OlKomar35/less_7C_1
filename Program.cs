@@ -5,5 +5,37 @@
 //1 -3,3 8 -9,9
 //8 7,8 -7,1 9
 
+double[,] CreateArray(int m, int n, double start, double finish)
+{
+    double[,] array = new double[m, n];
+    for (int i = 0; i < m; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            Random random = new Random();
+            array[i, j] = start + random.NextDouble() * (finish - start);
+        }
+    }
+    return array;
+}
 
+
+void PrintArray(double[,] array)
+{
+    Console.Write("[");
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            if ((i != array.GetLength(0) - 1) || (j != array.GetLength(1) - 1))
+                Console.Write($"{array[i, j].ToString("F2")}; ");
+            else
+                Console.WriteLine($"{array[i, j].ToString("F2")}]");
+        }
+        Console.WriteLine();
+    }
+}
+
+double[,] arr = CreateArray(3, 4, 1, 100);
+PrintArray(arr);
 
