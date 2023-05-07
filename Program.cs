@@ -36,6 +36,21 @@ void PrintArray(double[,] array)
     }
 }
 
-double[,] arr = CreateArray(3, 4, 1, 100);
+Console.Write("Введите количество строк массива m=");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов массива n=");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите начало диапозона start=");
+double start = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите окончание диапазона finish=");
+double finish = Convert.ToDouble(Console.ReadLine());
+if (finish<start) {
+    double temp = finish;
+    finish = start;
+    start = temp;
+}
+
+
+double[,] arr = CreateArray(m, n, start, finish);
 PrintArray(arr);
 
